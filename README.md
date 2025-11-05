@@ -1,4 +1,4 @@
-WorkbenchTest — NI-MAX-like RF/Lab Test Bench (Python)
+WorkbenchTest —RF/Lab Test Bench (Python)
 ======================================================
 
 Python GUI for discovering, configuring, and controlling lab instruments
